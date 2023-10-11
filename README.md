@@ -8,18 +8,6 @@ https://www.canva.com/design/DAFwp9WDFe8/amOGVUIbsqAt8Lwv-9PCVw/edit?utm_content
 ## Final Project:
 https://drive.google.com/drive/folders/18rBPKtIgIovTso1ERetSCJbqn3lmy8n9
 
-## Deliverables:
-Prototype: https://helthyhive.kirabel.com/
-<br>
-Project Document: https://docs.google.com/document/d/1Htq_y1dMJsMP7t8SiWJpS0vJuHSIJJZMfPPRRQKfB90/edit?usp=sharing 
-<br>
-Video:
-<br>
-Presentation: https://tome.app/devsthink-2f6/healthhive-a-comprehensive-health-and-wellness-platform-clgexf3ti08ls8j3zci7skjsp
-<br>
-Figma: https://www.figma.com/proto/qtt5buBJn8cJ6J4YkFAF9r/Salud-Digna?node-id=1051-3490&scaling=scale-down&page-id=4%3A5&starting-point-node-id=1051%3A3532
-<br>
-
 ## SUMMARY
 NASA’s satellite-derived active fire data are freely available and provide valuable information to a wide range of users. However, as wildfires continue to increase in frequency, number, and size, the need for more diverse stakeholder groups to understand and use these data is rapidly expanding. Your challenge is to develop solutions to address fire and natural resource monitoring through innovative use of technology and publicly available data, enabling local communities to report and monitor fires and/or improve current data distribution.
 
