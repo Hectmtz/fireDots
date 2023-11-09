@@ -1,5 +1,6 @@
 # Firedots
 # CHALLENGE: Managing Fire: Increasing Community-based Fire Management Opportunities
+## ***GLOBAL NOMINEE***
 ![fire forest (2)](https://github.com/Hectmtz/fireDots/assets/44554474/5ac2607b-3517-472a-bf19-5483bfd6634d)
 
 ## Project Demo: 
